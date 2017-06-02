@@ -27,7 +27,7 @@ window.exampleVideoData = [
         },
         'high': {
           'url': 'https://i.ytimg.com/vi/4WJLlWpzpP0/hqdefault.jpg',
-          'width': 480,
+          'width': 1000,
           'height': 360
         }
       },
